@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.brijframework</groupId>
-	<artifactId>brijframework-user-account</artifactId>
+	<artifactId>project-brijframework-accounts</artifactId>
 	<version>0.0.1</version>
-	<name>brijframework-user-account</name>
+	<name>project-brijframework-accounts</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>war</packaging>
 
